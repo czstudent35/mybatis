@@ -5,3 +5,10 @@ this is the mybatis study.
 １、使用MAVEN
 ２、使用git
 3、使用srpingMVC
+
+one new maven
+address:d:\mygitpro\mybatis
+
+<groupId>mybatis</groupId>
+    <artifactId>mybatis01</artifactId>
+    <version>1.0-SNAPSHOT</version>
